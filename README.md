@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @devopswithzack
-- 👀 I’m a DevOps guy
-- 🌱 I’m currently .. HelloWorld!
-- 💞️ I’m looking to collaborate .. enable devops
+- 👋 Hi, I’m Arashad Zackeriya
+- 👀 I Enable DevOps
+- 🌱 I’m currently Cloning Zack V2.0
 - 📫 How to reach me .. hello@zackeriya.dev
 
 <!---
